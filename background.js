@@ -1,0 +1,1 @@
+/* Event listener added for events fired when a tab is updated. */
