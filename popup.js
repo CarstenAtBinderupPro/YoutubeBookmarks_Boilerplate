@@ -3,10 +3,6 @@ const addNewBookmark = () => {};
 
 const viewBookmarks = () => {};
 
-const saveEditedBookmarkTitle = () => {};
-
-const onEdit = (e) => {};
-
 const onPlay = (e) => {};
 
 const onDelete = (e) => {};
